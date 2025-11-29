@@ -1,0 +1,36 @@
+.titulo-seccion{
+    color: rgb(249, 252, 255);
+}
+
+.prada-news{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+}
+
+.Chocolate-prada{
+    color: white;
+}
+
+.pradi{
+    display: flex;
+    justify-content:space-between;
+}
+
+
+.imagenes {
+    position: relative;
+    display: flex;
+    margin: 20px;
+}
+.pradi2{
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
+.pradanews-img{
+    justify-content: center;
+}
+
